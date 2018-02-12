@@ -47,8 +47,8 @@ Alternatively, ModelDB native clients for  ```spark.ml``` and ```scikit-learn```
 
 ## News
 
-2017.02.08: ModelDB publicly available! Try it out and contribute.
-2018.02.12: Launch east asia area demo server.
+2017.02.08: ModelDB publicly available! Try it out and contribute.    
+2018.02.12: Launch east asia area demo server.    
 
 ## Setup and Installation
 
