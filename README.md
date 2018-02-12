@@ -42,7 +42,7 @@ Alternatively, ModelDB native clients for  ```spark.ml``` and ```scikit-learn```
 
 ## Demo
 
-- [ModelDB client](http://150.95.145.170:999): Can use jupyter notebook demo. the password is "pass".
+- [ModelDB client](http://150.95.145.170:9999): Can use jupyter notebook demo. the password is "pass".
 - [ModelDB frontend](http://150.95.145.170:3000/projects): See how ModelDB can visualize model data and results.
 
 ## News
